@@ -1,4 +1,8 @@
-### Hi there 👋
+Sou bacharel e mestre em Economia pela UNILA e hoje estou atuando como Engenheira de Machine Learning.
+
+Estou diretamente envolvida na criação de Pipelines na Google Cloud Platform. Também tenho trabalhado em diversas etapas do ciclo de vida de desenvolvimento dos modelos, desde a coleta e tratamento dos dados até a implantação e monitoramento destes em produção.
+
+Atualmente, utilizo no meu dia a dia ferramentas de análise de dados, programação, versionamento de código e organização de demandas, como Python, SQL, BigQuery, Vertex AI, Github e Jira.
 
 <!--
 **deborakassem/deborakassem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
