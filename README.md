@@ -1,4 +1,6 @@
-Sou bacharel e mestre em Economia pela UNILA e hoje atuo como Engenheira de Machine Learning.
+Olá! 🙂
+
+Sou mestre em Economia pela UNILA e hoje atuo como Engenheira de Machine Learning.
 
 Estou diretamente envolvida na criação de Pipelines na Google Cloud Platform. Também tenho trabalhado em diversas etapas do ciclo de vida de desenvolvimento dos modelos, desde a coleta e tratamento dos dados até a implantação e monitoramento destes em produção.
 
