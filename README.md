@@ -1,8 +1,10 @@
-Olá! 🙂
+Hello! 🙂 
 
-Atualmente atuo como Engenheira de Machine Learning, estando diretamente envolvida na criação de Pipelines na Google Cloud Platform (GCP). Também tenho trabalhado em diversas etapas do ciclo de vida de desenvolvimento dos modelos, desde a coleta e tratamento dos dados até a implantação e monitoramento destes em produção.
+:mortar_board: I'm a economist by degree and I'm currently working as a *Machine Learning Engineer*, being directly involved in the creation of Pipelines on *Google Cloud Platform* (GCP). I have also worked in several stages of the model development life cycle, from data collection and processing to deployment and monitoring models in production.
 
-Utilizo no meu dia a dia ferramentas de análise de dados, programação, versionamento de código e organização de demandas, como Python, SQL, BigQuery, Vertex AI, Github, Jira e Kanbanize.
+:computer: In my day-to-day work, I use data analysis, programming, code versioning and demand organization tools, such as *Python*, *SQL*, *BigQuery*, *Vertex AI*, *Github*, *Jira* and *Kanbanize*.
+
+:envelope_with_arrow: You can reach me via [e-mail](deborakassem@live.com) or in my [LinkedIn](https://www.linkedin.com/in/debora-kassem-buturi/) web page.
 
 <!--
 **deborakassem/deborakassem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
